@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://i1-c.pinimg.com/736x/25/1a/5e/251a5eaa5f9f02bbeb1ba43884a11bca.jpg);
+    background-size: cover;        
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-attachment: fixed;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(227, 157, 157, 0.1);
+}
+
+.card-header h1 {
+    font-size: 28px;
+    margin: 0;
+}
+
+.btn-warning {
+    font-weight: bold;
+}
+
+.result-box {
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+}
